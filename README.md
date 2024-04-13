@@ -24,6 +24,7 @@ Restore wallet backup and fix corrupted data in Bitcoin Wallet
 ## Donation ##
 If you find this program helpful, please consider a donation:
 
-BTC: bc1qqtspvvyl5nv2dwffd0zwppledlmct7sydpd9l5
+BTC: 
+12ZYc8heeUaCeyV16ZGxa1TdH1C2BG8g7b
 
 **Thank You!**
